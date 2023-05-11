@@ -44,7 +44,7 @@
 
 <br/>
 
-<a href="https://github.com/meabdulmajeed">
+<a href="https://github.com/meabdulmajeed?cache=off">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meabdulmajeed&theme=buefy&show_icons=true" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meabdulmajeed&theme=buefy&layout=compact" /> -->
 </a>
