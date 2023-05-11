@@ -14,7 +14,7 @@
 
 - 🎓 &nbsp; I'm a MERN Stack Developer & a junior pursuing my bachelor's in Computer Science.
 - 🐱‍🏍 &nbsp; I am passionate about Web Development & Mobile Application Development.
-- 🤔 &nbsp; I'm also fascinated by Data Analysis and Machine Learning, and enjoy experimenting with various algorithms and models.
+- 🤔 &nbsp; I'm also fascinated by Data Analysis & Machine Learning, and enjoy experimenting with various algorithms & models.
 - 🌱 &nbsp; Learning more about Backend Development, Mobile Applicatrion Development & Machine Learning.
 
 <h3> 🛠 &nbsp;Languages & Tools</h3>
