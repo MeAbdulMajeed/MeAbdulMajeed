@@ -3,7 +3,7 @@
 <a href="mailto:a.majeed2jz@gmail.com">
   <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" alt="Email">
 </a>
-<a href="https://www.linkedin.com/in/abdul-majeed-9402aa1b4/" rel="nofollow">
+<a href="https://www.linkedin.com/in/connect-majeed/" rel="nofollow">
   <img align="left" width="24px" src="https://camo.githubusercontent.com/876b09c8804a6c525f9fb7845567043fce4c1e7e190335be1b937febddfa2810/68747470733a2f2f63646e322e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f736f6369616c2d6d656469612d323238352f3531322f315f4c696e6b6564696e5f756e6f6666696369616c5f636f6c6f7265645f7376672d3235362e706e67" data-canonical-src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" style="max-width: 100%;">
 </a>
 <a href="https://www.facebook.com/profile.php?id=100008715453941" rel="nofollow">
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 - 🛢 &nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 - ⚙️ &nbsp;
   <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
