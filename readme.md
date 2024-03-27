@@ -6,9 +6,7 @@
 <a href="https://www.linkedin.com/in/connect-majeed/" rel="nofollow">
   <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" style="max-width: 100%;">
 </a>
-<a href="https://www.facebook.com/profile.php?id=100008715453941" rel="nofollow">
-  <img align="left" width="24px" src="https://camo.githubusercontent.com/2d19b498a2124e3e907ac657b545b229d51853912fff2e12ccc3c92aa19c9dda/68747470733a2f2f63646e312e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f74797065732f33322f7371756172652d66616365626f6f6b2d3235362e706e67" data-canonical-src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" style="max-width: 100%;">
-</a>
+
 <br/>
 <h3> 👨‍💻 &nbsp;About Me </h3>
 
