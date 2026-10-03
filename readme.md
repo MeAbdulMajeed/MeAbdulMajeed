@@ -1,43 +1,46 @@
-## Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Abdul Majeed!</h2>
+# Hi, I'm Abdul Majeed
 
-<a href="mailto:majeed.connect@gmail.com">
-  <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/connect-majeed/" rel="nofollow">
-  <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" style="max-width: 100%;">
-</a>
+Software Engineer in Karachi, Pakistan. I build web applications with React and TypeScript, and I'm growing toward full-stack and cloud.
 
-<br/>
-<h3> 👨‍💻 &nbsp;About Me </h3>
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdulmajeed--dev.vercel.app-0F766E?style=flat)](https://abdulmajeed-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect--majeed-0A66C2?style=flat)](https://www.linkedin.com/in/connect-majeed/)
+[![Email](https://img.shields.io/badge/Email-majeed.connect%40gmail.com-555555?style=flat)](mailto:majeed.connect@gmail.com)
 
-- 🎓 &nbsp; I'm a Software Engineer & a junior pursuing my bachelor's in Computer Science.
-- 🐱‍🏍 &nbsp; I am passionate about Web Application Development.
-- 🤔 &nbsp; I'm also fascinated by Data Analysis & Machine Learning, and enjoy experimenting with various algorithms & models.
-- 🌱 &nbsp; Learning more about Backend Development, Artificial Intelligence, and Machine Learning.
+## What I'm working on
 
-<h3> 🛠 &nbsp;Languages & Tools</h3>
+- Building a sales and operations platform at SysTellex: sales workflows, order processing, prospect management, agreement forms and user settings.
+- Studying for the AWS Solutions Architect – Associate. My hands-on labs and notes are in [AWS-SAA](https://github.com/MeAbdulMajeed/AWS-SAA).
 
-- 🌐 &nbsp;
-  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src = "https://img.shields.io/badge/-CSS3-1572B6?   style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-- 🛢 &nbsp;
-   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-- ⚙️ &nbsp;
-  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-- 🔧 &nbsp;
-  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-  
-  ## Certifications
-- [HTML, CSS, and Javascript for Web Developers from Coursera](https://www.coursera.org/account/accomplishments/certificate/NKP989SR77A3)
-- [Certificate of SQL from Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/b230ca7729711c4b19773072dd88eeed12abf1c4)
+Most of my work lives in private company repositories, so this profile shows my learning and personal projects.
 
-<br/>
+## Tools
 
-<a href="https://github.com/meabdulmajeed?cache=off">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meabdulmajeed&theme=buefy&show_icons=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meabdulmajeed&theme=buefy&layout=compact" /> -->
-</a>
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**State and data**
+
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+
+**Cloud and workflow**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+## Certification
+
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/bcdf783b-8f14-45b9-8f86-fcd3296c7bf3/public_url) (Apr 2026)
